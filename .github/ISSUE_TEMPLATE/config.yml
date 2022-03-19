@@ -3,4 +3,4 @@ contact_links:
   - name: Add new ToDo
     about: made by config.yml
     # edit {username} and {repo} for your environment
-    url: https://github.com/yuinore/ToDo/issues/new?template=custom.md&projects=yuinore%2FToDo%2F1&labels=ToDo
+    url: https://github.com/yuinore/my-life-without-me/issues/new?template=custom.md&projects=yuinore%2Fmy-life-without-me%2F1&labels=ToDo
